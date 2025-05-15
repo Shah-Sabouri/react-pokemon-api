@@ -6,7 +6,7 @@ const AppRoutes = () => {
         <Routes>
             <Route path="/" element={<Homepage />} />
         </Routes>
-    )
+    );
 };
 
 export default AppRoutes;
